@@ -24,7 +24,7 @@ Check out [API LIVE DEMO]( https://backend-refreshcooldrinks.herokuapp.com/) her
 1. Git Clone
 
 ```
-git clone https://github.com/jtb1205/Refresh_cool_drinks.git 
+https://github.com/tamirug2015/Refresh-drinks.git
 ```
 
 2. Backend setting
